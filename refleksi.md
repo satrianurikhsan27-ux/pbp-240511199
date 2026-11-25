@@ -1,0 +1,9 @@
+## 3. Refleksi Tugas Pertemuan 1
+
+Platform yang paling menarik bagi saya untuk dipelajari adalah **Mobile**. Menurut saya, pengembangan aplikasi mobile menarik karena aplikasi dapat digunakan melalui smartphone dan mendukung berbagai aktivitas sehari-hari. Saya ingin mempelajari lebih dalam proses pembuatan aplikasi mobile, termasuk bagaimana aplikasi memanfaatkan fitur perangkat seperti GPS, kamera, dan sensor.
+
+Tantangan yang saya alami selama praktikum adalah memahami proses persiapan lingkungan pemrograman dan penggunaan beberapa tools pengembangan. Salah satu kendala yang saya temui adalah ketika menjalankan perintah NPM melalui terminal PowerShell di Visual Studio Code. Pada awalnya, perintah tersebut mengalami kendala karena kebijakan Execution Policy PowerShell. Selain itu, saya juga perlu memahami cara membuat folder proyek, membuat file program, serta menjalankan program menggunakan bahasa pemrograman yang berbeda.
+
+Untuk mengatasi tantangan tersebut, saya mencoba menjalankan setiap langkah praktikum secara bertahap dengan mengikuti instruksi yang diberikan. Kendala NPM berhasil diatasi dengan menggunakan perintah `npm.cmd --version`. Setelah itu, saya berhasil memeriksa versi Git, Node.js, NPM, Java, dan javac. Saya juga berhasil membuat dan menjalankan tiga program sederhana, yaitu HTML melalui browser, JavaScript menggunakan Node.js, dan Java melalui terminal Visual Studio Code.
+
+Melalui praktikum ini, saya mendapatkan pemahaman yang lebih baik mengenai persiapan lingkungan pengembangan serta cara menjalankan program pada platform yang berbeda. Praktikum ini juga menambah pengetahuan dan pengalaman saya sebagai dasar untuk mempelajari pengembangan aplikasi lebih lanjut.
